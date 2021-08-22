@@ -1,0 +1,23 @@
+
+  .border {
+    width: 95vw;
+    height: 95vh;
+    position: relative;
+    border: 3px solid green;
+  }
+
+  .border_touched {
+    width: 95vw;
+    height: 95vh;
+    position: relative;
+    border: 3px solid red;
+  }
+
+  .box {
+      height: 100px;
+      width: 100px;
+      background: blue;
+      position: absolute;
+      top: 50px;
+      left: 0px;
+  }
